@@ -52,11 +52,6 @@ body {
     overflow: hidden;
 }
 
-.right_column img {
-    width: 100%;
-    height: auto;
-}
-
 /* ---------- banner section ---------- */
 
 .banner {
@@ -64,9 +59,12 @@ body {
 }
 
 .right_column {
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
+    padding-top: 3rem;
+}
+
+.right_column img {
+    width: 100%;
+    height: auto;
 }
 
 .left_column {
@@ -286,6 +284,7 @@ h1 {
 
     .right_column {
         max-width: 40%;
+        padding-top: 0;
     }
 
     .right_column img {
@@ -346,6 +345,10 @@ h1 {
 
     .left_column p {
         font-size: 1.125rem;
+    }
+
+    .right_column {
+        padding-top: 0;
     }
 
     .right_column img {
