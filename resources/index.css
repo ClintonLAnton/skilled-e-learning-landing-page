@@ -111,7 +111,7 @@ h1 {
 }
 
 .courses {
-    height: 7.5rem;
+    height: 20rem;
     margin: 0 0 5% 0;
     color: #FFF;
     font-size: 1.5rem;
@@ -127,7 +127,7 @@ h1 {
 }
 
 .box {
-    height: 17.68rem;
+    height: 20rem;
     position: relative;
 }
 
@@ -136,7 +136,7 @@ h1 {
     0px 25px 50px
     rgba(6, 22, 141, 0.0442381);
     margin-top: 2rem;
-    height: 17.68rem;
+    height: 20rem;
     border-radius: .5rem;
     position: relative;
 }
@@ -311,7 +311,7 @@ h1 {
 
     .courses {
         margin: 3rem 0 0 0;
-        height: 17.68rem;
+        height: 20rem;
         width: 45%;
         align-items: revert;
     }
